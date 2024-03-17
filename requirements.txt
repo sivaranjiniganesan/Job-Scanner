@@ -1,7 +1,6 @@
 streamlit
 pandas
 csv
-get_score
 os
 unicodedata
 requests
